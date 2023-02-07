@@ -1,10 +1,10 @@
 ![image](img/simple_shell_header.png)
 # simple_shell
-Simple Unix Shell. Release date August 26, 2021
+Simple Unix Shell. Release date Nov 15, 2022
 [![Twitter](https://img.shields.io/twitter/url?label=share&style=social&url=https%3A%2F%2Fgithub.com%2Fralexrivero%2Fsimple_shell)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fralexrivero%2Fsimple_shell)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ralexrivero/simple_shell)
-![Lines of code](https://img.shields.io/tokei/lines/github/ralexrivero/simple_shell)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Rachamv/simple_shell)
+![Lines of code](https://img.shields.io/tokei/lines/github/Rachamv/simple_shell)
 
 ## Table of Contents
 
@@ -122,7 +122,7 @@ Style guidelines: [Betty style](https://github.com/holbertonschool/Betty/wiki)
 
 ## Installation
 
-- Clone this repository: `git clone "https://github.com/ralexrivero/simple_shell"`
+- Clone this repository: `git clone "https://github.com/Rachamv/simple_shell"`
 - Change directories into the repository: `cd simple_shell`
 - Compile: `gcc -Wall -Werror -Wextra -pedantic *.c -o hsh`
 - Run the shell in interactive mode: `./hsh`
@@ -199,29 +199,14 @@ drwxrwxrwx 1 user user  4096 Aug 24 20:03 simple_shell_03
 Not known bugs at the moment
 
 ## Staff
-Ayrton & Fabiana & Ronald
 
-Ayrton
+Rachamv
 
-<a href="https://www.linkedin.com/in/ayrton-coelho-b91824170/" target="_blank">  <img align="left" alt="Ayrton Coelho | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
+<a href="https://twitter.com/Rachamv_V" target="_blank">  <img align="left" alt="Rachamv | Twitter" src="https://img.shields.io/twitter/follow/Rachamv?style=social" /> </a>
 
-<a href="https://github.com/hippocampus3282/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/hippocampus3282?style=social" alt="Ayrton | Github"> </a>
-<br/>
+<a href="https://www.linkedin.com/in/adewunmi-oladele-77a846215/" target="_blank">  <img align="left" alt="Rachamv | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
 
-Fabiana
-
-<a href="https://www.linkedin.com/in/fabiana-tellechea-711316215/" target="_blank">  <img align="left" alt="Fabiana Tellechea | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
-
-<a href="https://github.com/hippocampus3282/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/fabianatellechea?style=social" alt="Fabiana | Github"> </a>
-<br/>
-
-Ronald
-
-<a href="https://twitter.com/ralex_uy" target="_blank">  <img align="left" alt="Ronald Rivero | Twitter" src="https://img.shields.io/twitter/follow/ralex_uy?style=social" /> </a>
-
-<a href="https://www.linkedin.com/in/ronald-rivero/" target="_blank">  <img align="left" alt="Ronald Rivero | LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin" /> </a>
-
-<a href="https://github.com/ralexrivero/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/ralexrivero?style=social" alt="Ralex | Github"> </a>
+<a href="https://github.com/Rachamv/" target="_blank">  <img align="left" src="https://img.shields.io/github/followers/Rachamv?style=social" alt="Rachamv| Github"> </a>
 
 <br/>
 
