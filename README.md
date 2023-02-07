@@ -1,7 +1,7 @@
 ![image](img/simple_shell_header.png)
 # simple_shell
 Simple Unix Shell. Release date Nov 15, 2022
-[![Twitter](https://img.shields.io/twitter/url?label=share&style=social&url=https%3A%2F%2Fgithub.com%2Fralexrivero%2Fsimple_shell)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fralexrivero%2Fsimple_shell)
+[![Twitter](https://img.shields.io/twitter/url?label=share&style=social&url=https%3A%2F%2Fgithub.com%2FRachamv%2Fsimple_shell)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FRachamv%2Fsimple_shell)
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Rachamv/simple_shell)
 ![Lines of code](https://img.shields.io/tokei/lines/github/Rachamv/simple_shell)
